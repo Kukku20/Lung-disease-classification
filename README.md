@@ -45,7 +45,7 @@ professionals in delivering efficient and effective patient care.
 Upon analaysis we found these 14 disease are the most privalining diseases among the data 
 set
  
- Fig 1: A sample of the disease label from the dataset
+  ![image](https://github.com/Kukku20/Lung-disease-classification/assets/125892327/c886b080-b6de-4fdf-9970-fb4cf1603c0a)
 
 1.1.1Atelectasis 
 It occurs when one or more areas of the lung collapse or do not fully expand. It can be caused 
@@ -113,7 +113,7 @@ asbestos exposure, or other lung diseases.
  1.1.12 Fibrosis: Pulmonary fibrosis is a condition characterized by the scarring and 
 thickening of lung tissues. It can be caused by various factors, including exposure to 
 environmental toxins, autoimmune diseases, or idiopathic reasons.
- ![image](https://github.com/Kukku20/Lung-disease-classification/assets/125892327/c886b080-b6de-4fdf-9970-fb4cf1603c0a)
+
 
  1.1.13 Edema: Edema refers to the accumulation of excess fluid in the body's tissues. 
 Pulmonary edema specifically refers to fluid buildup in the lungs, which can result from heart 
